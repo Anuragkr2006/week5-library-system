@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Anurag",
+        "member_id": "M001",
+        "borrowed_books": [
+            "104",
+            "112"
+        ]
+    },
+    {
+        "name": "Aditi",
+        "member_id": "M002",
+        "borrowed_books": [
+            "102"
+        ]
+    },
+    {
+        "name": "Pratiksha",
+        "member_id": "M003",
+        "borrowed_books": [
+            "105"
+        ]
+    },
+    {
+        "name": "Aman",
+        "member_id": "M004",
+        "borrowed_books": []
+    },
+    {
+        "name": "Rahul",
+        "member_id": "M005",
+        "borrowed_books": []
+    },
+    {
+        "name": "Saurabh",
+        "member_id": "M006",
+        "borrowed_books": [
+            "115"
+        ]
+    },
+    {
+        "name": "Sonali",
+        "member_id": "M007",
+        "borrowed_books": [
+            "114"
+        ]
+    },
+    {
+        "name": "Nanhe",
+        "member_id": "M008",
+        "borrowed_books": []
+    },
+    {
+        "name": "Khushi",
+        "member_id": "M009",
+        "borrowed_books": []
+    },
+    {
+        "name": "Ashish",
+        "member_id": "M010",
+        "borrowed_books": [
+            "110"
+        ]
+    },
+    {
+        "name": "Aashu",
+        "member_id": "M011",
+        "borrowed_books": []
+    }
+]

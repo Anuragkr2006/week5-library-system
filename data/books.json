@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Python Programming",
+        "author": " John Smith",
+        "isbn": "101",
+        "year": "2000",
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Data Structures in Python",
+        "author": "Sarah Johnson",
+        "isbn": "102",
+        "year": "2004",
+        "available": false,
+        "borrowed_by": "M002",
+        "due_date": "2026-06-25",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Data Mining in Python",
+        "author": "Emily Davis",
+        "isbn": "103",
+        "year": "2020",
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "C/C++",
+        "author": "Daniel Thomas",
+        "isbn": "104",
+        "year": "2022",
+        "available": false,
+        "borrowed_by": "M001",
+        "due_date": "2026-06-25",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Advance Python",
+        "author": "Christopher Martin",
+        "isbn": "105",
+        "year": "2024",
+        "available": false,
+        "borrowed_by": "M003",
+        "due_date": "2026-06-25",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Java Programming",
+        "author": "James Anderson",
+        "isbn": "106",
+        "year": "2026",
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Software Engineering",
+        "author": "Jennifer White",
+        "isbn": "108",
+        "year": "2016",
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Data Science",
+        "author": "Christopher Martin",
+        "isbn": "109",
+        "year": "2011",
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Python Basics",
+        "author": "Emily Davis",
+        "isbn": "110",
+        "year": "2007",
+        "available": false,
+        "borrowed_by": "M010",
+        "due_date": "2026-06-25",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Machine Learning Basics",
+        "author": "David Brown",
+        "isbn": "111",
+        "year": "2021",
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Web Development Guide",
+        "author": "Emily Davis",
+        "isbn": "112",
+        "year": "2020",
+        "available": false,
+        "borrowed_by": "M001",
+        "due_date": "2026-06-25",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Database Management",
+        "author": "Robert Taylor",
+        "isbn": "113",
+        "year": "2025",
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Cyber Security Essentials",
+        "author": "Daniel Thomas",
+        "isbn": "114",
+        "year": "2023",
+        "available": false,
+        "borrowed_by": "M007",
+        "due_date": "2026-06-25",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Cloud Computing",
+        "author": "Christopher Martin",
+        "isbn": "115",
+        "year": "2019",
+        "available": false,
+        "borrowed_by": "M006",
+        "due_date": "2026-06-25",
+        "date_added": "2026-06-11"
+    },
+    {
+        "title": "Jeera ",
+        "author": "John Sinha",
+        "isbn": "116",
+        "year": "2015",
+        "available": true,
+        "borrowed_by": null,
+        "due_date": null,
+        "date_added": "2026-06-11"
+    }
+]
